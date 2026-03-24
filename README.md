@@ -19,11 +19,35 @@ I am a Full Stack Developer with hands-on experience in building responsive and 
 
 ## Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,git,github,postman,vscode" />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 
-</div>
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
@@ -40,29 +64,6 @@ A full-stack MERN application designed to streamline restaurant bookings and enh
 * Secure authentication and role-based access
 * Admin panel for managing menu and reservations
 
-**Tech Stack**
-MongoDB, Express.js, React.js, Node.js
-
-**What I Implemented**
-
-* Designed RESTful APIs for booking and user management
-* Integrated frontend with backend using Axios
-* Created responsive UI for seamless user experience
-* Structured database schema for efficient data handling
-
----
-
-## Other Projects
-
-**Student Report Card System (Java)**
-Built using Core Java with OOP principles for managing student data and result processing.
-
-**Quiz Application (JavaScript)**
-Interactive quiz system with timer and real-time scoring.
-
-**Seven Wonders Web App**
-Frontend project with dynamic content rendering using JavaScript.
-
 ---
 
 ## GitHub Stats
@@ -77,27 +78,8 @@ Frontend project with dynamic content rendering using JavaScript.
 
 ---
 
-## Certifications
-
-* Full Stack Development – Apna College
-* Java & DSA – Apna College
-* UI/UX Design (Figma) – Udemy
-* C & C++ Programming – Seven Mentor
-* SEO – Great Learning
-* Code Without Barriers – Microsoft
-
----
-
 ## Contact
 
 Email: [shivangianildeshmukh@gmail.com](mailto:shivangianildeshmukh@gmail.com)
 GitHub: https://github.com/shivangi03-code
 LinkedIn: https://www.linkedin.com/in/shivangi-deshmukh-130591287
-
----
-
-<div align="center">
-
-Focused on building real-world applications and continuously improving development skills.
-
-</div>
