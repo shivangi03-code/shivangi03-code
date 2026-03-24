@@ -82,11 +82,17 @@ A full-stack MERN application designed to streamline restaurant bookings and enh
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shivangianildeshmukh@gmail.com)
+<a href="mailto:shivangianildeshmukh@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" style="margin: 0 15px;" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shivangi03-code)
+<a href="https://github.com/shivangi03-code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin: 0 15px;" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shivangi-deshmukh-130591287)
+<a href="https://www.linkedin.com/in/shivangi-deshmukh-130591287">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin: 0 15px;" />
+</a>
 
 </div>
 
