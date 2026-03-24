@@ -3,9 +3,9 @@
 # Shivangi Anil Deshmukh
 
 Full Stack Developer (MERN)
-BCA Graduate | Pune
+Building scalable web applications with clean UI & efficient backend systems
 
-<img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%26+DSA;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Java+%26+DSA;Focused+on+Real+World+Projects" />
 
 </div>
 
@@ -13,26 +13,17 @@ BCA Graduate | Pune
 
 ## About Me
 
-I am a Full Stack Developer specializing in the MERN stack, with a strong focus on building responsive and user-centric web applications. I enjoy designing clean interfaces and developing scalable backend systems.
+I am a Full Stack Developer with hands-on experience in building responsive and user-focused web applications using the MERN stack. I focus on writing clean, maintainable code and developing scalable systems.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages**
-C, C++, Java, JavaScript
+<div align="center">
 
-**Web Development**
-React.js, HTML5, CSS3, Node.js, Express.js
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,git,github,postman,vscode" />
 
-**Databases**
-MongoDB, MySQL
-
-**Core Concepts**
-REST APIs, MVC Architecture, Authentication & Authorization, CRUD Operations
-
-**Tools**
-Git, GitHub, Postman, VS Code
+</div>
 
 ---
 
@@ -40,38 +31,49 @@ Git, GitHub, Postman, VS Code
 
 ### Thalis of India – Restaurant Reservation System
 
-A full-stack MERN application for managing restaurant bookings and food pre-orders.
+A full-stack MERN application designed to streamline restaurant bookings and enhance user experience.
 
 **Key Features**
 
-* Real-time table reservations
-* Pre-order meal functionality
-* Authentication and role-based access
-* Admin dashboard for management
+* Real-time table reservation system
+* Pre-order meals during booking
+* Secure authentication and role-based access
+* Admin panel for managing menu and reservations
 
 **Tech Stack**
 MongoDB, Express.js, React.js, Node.js
 
+**What I Implemented**
+
+* Designed RESTful APIs for booking and user management
+* Integrated frontend with backend using Axios
+* Created responsive UI for seamless user experience
+* Structured database schema for efficient data handling
+
 ---
 
-## Projects
+## Other Projects
 
 **Student Report Card System (Java)**
-Application for managing student records, result calculation, and rank generation using OOP principles.
+Built using Core Java with OOP principles for managing student data and result processing.
 
 **Quiz Application (JavaScript)**
-Interactive quiz with timer and real-time scoring, designed with responsive UI.
+Interactive quiz system with timer and real-time scoring.
 
-**Seven Wonders – Web Application**
-Dynamic web app using HTML, CSS, and JavaScript to enhance user interaction.
+**Seven Wonders Web App**
+Frontend project with dynamic content rendering using JavaScript.
 
 ---
 
-## Education
+## GitHub Stats
 
-Bachelor of Computer Applications (BCA)
-Tilak Maharashtra Vidyapeeth, Pune
-Year of Completion: 2025
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangi03-code\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shivangi03-code\&theme=tokyonight\&hide_border=true)
+
+</div>
 
 ---
 
@@ -86,18 +88,6 @@ Year of Completion: 2025
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangi03-code\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shivangi03-code\&theme=tokyonight)
-
-</div>
-
----
-
 ## Contact
 
 Email: [shivangianildeshmukh@gmail.com](mailto:shivangianildeshmukh@gmail.com)
@@ -108,7 +98,6 @@ LinkedIn: https://www.linkedin.com/in/shivangi-deshmukh-130591287
 
 <div align="center">
 
-"Code. Build. Improve."
+Focused on building real-world applications and continuously improving development skills.
 
 </div>
-
