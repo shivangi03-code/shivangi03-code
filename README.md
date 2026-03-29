@@ -51,26 +51,9 @@ I am a Full Stack Developer with hands-on experience in building responsive and 
 
 ---
 
-## Featured Project
-
-### Thalis of India – Restaurant Reservation System
-
-A full-stack MERN application designed to streamline restaurant bookings and enhance user experience.
-
-**Key Features**
-
-* Real-time table reservation system
-* Pre-order meals during booking
-* Secure authentication and role-based access
-* Admin panel for managing menu and reservations
-
----
-
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangi03-code\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shivangi03-code\&theme=tokyonight\&hide_border=true)
 
